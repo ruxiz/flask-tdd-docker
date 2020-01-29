@@ -1,0 +1,6 @@
+[
+  "test_config.py::test_development_config",
+  "test_config.py::test_testing_config",
+  "test_config.py::test_production_config",
+  "test_ping.py::test_ping"
+]
